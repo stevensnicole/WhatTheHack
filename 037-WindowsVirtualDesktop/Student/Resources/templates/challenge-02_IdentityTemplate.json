@@ -14,11 +14,11 @@
         },
         "Location": {
             "type": "string",
-            "defaultValue": "eastus"
+            "defaultValue": "northeurope"
         },
         "LocationAbbr": {
             "type": "string",
-            "defaultValue": "eus"
+            "defaultValue": "ne"
         },
         "Timestamp": {
             "type": "string"
